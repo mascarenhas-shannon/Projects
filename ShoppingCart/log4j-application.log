@@ -1,0 +1,40 @@
+2016-12-10 15:57:22 INFO  StoreServlet:46 - Product Id:5 Product Name:Tape
+2016-12-10 15:57:22 INFO  StoreServlet:46 - Product Id:4 Product Name:Paint
+2016-12-10 15:57:22 INFO  StoreServlet:46 - Product Id:3 Product Name:Glue
+2016-12-10 15:57:22 INFO  StoreServlet:46 - Product Id:2 Product Name:Nails
+2016-12-10 15:57:22 INFO  StoreServlet:46 - Product Id:1 Product Name:Sandpaper
+2016-12-10 15:57:22 INFO  StoreServlet:221 - Browse Cart
+2016-12-10 16:20:54 INFO  StoreServlet:209 - View Cart
+2016-12-10 16:23:47 INFO  StoreServlet:221 - Browse Cart
+2016-12-10 16:23:52 INFO  StoreServlet:87 - Adding to the cart
+2016-12-10 16:23:52 INFO  StoreServlet:92 - Product Id : 2 Product Name : Nails
+2016-12-10 16:23:52 INFO  StoreServlet:136 - Nails Quantity : 1 
+2016-12-10 16:23:52 INFO  StoreServlet:138 - Prices Map values after adding Nails
+2016-12-10 16:23:52 INFO  StoreServlet:142 - Product Id : 2 Price Value : 15
+2016-12-10 16:23:52 INFO  StoreServlet:186 - Cart Map values
+2016-12-10 16:23:52 INFO  StoreServlet:190 - Product Id : 2 Cart Value(Quantity): 1
+2016-12-10 16:23:52 INFO  StoreServlet:209 - View Cart
+2016-12-10 16:24:05 INFO  StoreServlet:221 - Browse Cart
+2016-12-10 16:24:11 INFO  StoreServlet:87 - Adding to the cart
+2016-12-10 16:24:11 INFO  StoreServlet:92 - Product Id : 4 Product Name : Paint
+2016-12-10 16:24:11 INFO  StoreServlet:160 - Paint Quantity: 1 
+2016-12-10 16:24:11 INFO  StoreServlet:162 - Prices Map values after adding Paint
+2016-12-10 16:24:11 INFO  StoreServlet:166 - Product Id : 4 Price Value :40
+2016-12-10 16:24:11 INFO  StoreServlet:166 - Product Id : 2 Price Value :15
+2016-12-10 16:24:11 INFO  StoreServlet:186 - Cart Map values
+2016-12-10 16:24:11 INFO  StoreServlet:190 - Product Id : 4 Cart Value(Quantity): 1
+2016-12-10 16:24:11 INFO  StoreServlet:190 - Product Id : 2 Cart Value(Quantity): 1
+2016-12-10 16:24:11 INFO  StoreServlet:209 - View Cart
+2016-12-10 16:24:17 INFO  StoreServlet:221 - Browse Cart
+2016-12-10 16:24:20 INFO  StoreServlet:87 - Adding to the cart
+2016-12-10 16:24:20 INFO  StoreServlet:92 - Product Id : 2 Product Name : Nails
+2016-12-10 16:24:20 INFO  StoreServlet:136 - Nails Quantity : 2 
+2016-12-10 16:24:20 INFO  StoreServlet:138 - Prices Map values after adding Nails
+2016-12-10 16:24:20 INFO  StoreServlet:142 - Product Id : 4 Price Value : 40
+2016-12-10 16:24:20 INFO  StoreServlet:142 - Product Id : 2 Price Value : 30
+2016-12-10 16:24:20 INFO  StoreServlet:186 - Cart Map values
+2016-12-10 16:24:20 INFO  StoreServlet:190 - Product Id : 4 Cart Value(Quantity): 1
+2016-12-10 16:24:20 INFO  StoreServlet:190 - Product Id : 2 Cart Value(Quantity): 2
+2016-12-10 16:24:20 INFO  StoreServlet:209 - View Cart
+2016-12-10 16:29:12 INFO  StoreServlet:199 - Empty the Cart
+2016-12-10 16:29:12 INFO  StoreServlet:209 - View Cart
